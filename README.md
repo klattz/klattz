@@ -1,8 +1,8 @@
 - Hi, I’m @klattz
-- I’m interested in low level programming!
+- I’m interested in low level programming! I'm also learning Malware analysis.
 - I’m currently learning C
 - I’m looking to collaborate on anything! I am trying to help with any C projects to help the community and my learning.
-- How to reach me klattzgh@gmail.com
+- How to reach me klattzgh@gmail.com, please send me malware!
 
 <!---
 klattz/klattz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
