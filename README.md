@@ -1,7 +1,6 @@
 - Hi, I’m @klattz
 - I’m interested in low level programming! I'm also learning Malware analysis.
-- I’m currently learning C
-- I’m looking to collaborate on anything! I am trying to help with any C projects. Also open to helping the community!
+- I’m looking to collaborate on anything realated to C. 
 - How to reach me klattzgh@gmail.com, please send me malware!
 
 <!---
